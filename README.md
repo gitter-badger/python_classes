@@ -2,6 +2,8 @@ Python classes
 ==
 
 ### Requirements:
+
+[![Join the chat at https://gitter.im/ocervell/python_classes](https://badges.gitter.im/ocervell/python_classes.svg)](https://gitter.im/ocervell/python_classes?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 * Python **2.7** is the required version of Python for these classes.
 * Python libraries required: **IPython notebook**, **Numpy**, **Matplotlib**, **Pandas**, **Django**, **MySQL Connector**, **Boto3**.
 
